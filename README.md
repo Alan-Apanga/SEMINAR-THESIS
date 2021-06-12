@@ -1,4 +1,4 @@
-# Semina-Thesis
+# Seminar-Thesis
 
 Topic:Strategic planning for shared mobility systems
 
